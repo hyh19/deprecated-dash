@@ -114,7 +114,7 @@
 		<dict/>
 	</dict>
 	<key>isPinned</key>
-	<false/>
+	<true/>
 	<key>placeholderDelimiter</key>
 	<string>__</string>
 	<key>profiles</key>
@@ -160,7 +160,7 @@
 	<key>shouldSyncView</key>
 	<true/>
 	<key>showInDock</key>
-	<false/>
+	<true/>
 	<key>showSearchFallbacks</key>
 	<true/>
 	<key>versionedDHCheatRepo</key>
@@ -262,6 +262,6 @@
 		<dict/>
 	</dict>
 	<key>windowStyle</key>
-	<string>HUD</string>
+	<string>Standard</string>
 </dict>
 </plist>
