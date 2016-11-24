@@ -93,6 +93,8 @@
 		<key>uninstalled</key>
 		<dict/>
 	</dict>
+	<key>DHWebViewIsDark</key>
+	<false/>
 	<key>annotationsAreShown</key>
 	<true/>
 	<key>docsets</key>
@@ -126,16 +128,58 @@
 			<string>Default</string>
 			<key>searchSnippets</key>
 			<true/>
+			<key>triggers</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>The "Browse Documentation" navigator tab is selected</string>
+					<key>identifier</key>
+					<string>documentation</string>
+					<key>isTabTrigger</key>
+					<true/>
+				</dict>
+			</array>
 		</dict>
 		<dict>
 			<key>icon</key>
 			<string>Snippet</string>
 			<key>name</key>
-			<string>Snippets Only</string>
+			<string>Snippets</string>
 			<key>placeholder</key>
 			<string>Search Snippets</string>
 			<key>searchSnippets</key>
 			<true/>
+			<key>triggers</key>
+			<array>
+				<dict>
+					<key>description</key>
+					<string>The "All Snippets" navigator tab is selected</string>
+					<key>identifier</key>
+					<string>snippets</string>
+					<key>isTabTrigger</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>description</key>
+					<string>The "Snippet Tags" navigator tab is selected</string>
+					<key>identifier</key>
+					<string>tags</string>
+					<key>isTabTrigger</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>appPath</key>
+					<string>/Applications/Xcode.app</string>
+					<key>bundle</key>
+					<string>com.apple.dt.Xcode</string>
+					<key>description</key>
+					<string>Xcode becomes active</string>
+					<key>image</key>
+					<string>generalAppIcon</string>
+					<key>isAppTrigger</key>
+					<true/>
+				</dict>
+			</array>
 		</dict>
 	</array>
 	<key>searchKey</key>
@@ -148,7 +192,7 @@
 	<key>shouldRestoreTabs</key>
 	<false/>
 	<key>shouldShowStatusIcon</key>
-	<true/>
+	<false/>
 	<key>shouldStartAtLogin</key>
 	<true/>
 	<key>shouldSyncBookmarks</key>
