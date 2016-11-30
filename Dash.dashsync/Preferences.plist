@@ -97,6 +97,29 @@
 	<false/>
 	<key>annotationsAreShown</key>
 	<true/>
+	<key>bookmarks</key>
+	<array>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcPC1nk4jT#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>objc_getAssociatedObject</string>
+			<key>typeImagePath</key>
+			<string>Function</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hc5HMHRTnj#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>objc_setAssociatedObject</string>
+			<key>typeImagePath</key>
+			<string>Function</string>
+		</dict>
+	</array>
 	<key>docsets</key>
 	<dict>
 		<key>keywords</key>
@@ -141,6 +164,10 @@
 			</array>
 		</dict>
 		<dict>
+			<key>docsets</key>
+			<array>
+				<string>~/Library/Application Support/Dash/DocSets/Apple_API_Reference/Apple_API_Reference.docset</string>
+			</array>
 			<key>icon</key>
 			<string>Snippet</string>
 			<key>name</key>
