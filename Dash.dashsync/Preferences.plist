@@ -101,6 +101,66 @@
 	<array>
 		<dict>
 			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcSFdwIvYe#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>method_exchangeImplementations</string>
+			<key>typeImagePath</key>
+			<string>Function</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcXg02NZxg#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>class_replaceMethod</string>
+			<key>typeImagePath</key>
+			<string>Function</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hc7Ix9NXQn#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>class_addMethod</string>
+			<key>typeImagePath</key>
+			<string>Function</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcVuOUWUWk#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>objc_msgSend</string>
+			<key>typeImagePath</key>
+			<string>Function</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcYsf9mf-A#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>SEL</string>
+			<key>typeImagePath</key>
+			<string>Type</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?topic_id=1808514&amp;language=occ</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>Associative Object Behaviors</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
 			<string>dash-apple-api://load?request_key=hcPC1nk4jT#</string>
 			<key>platformImagePath</key>
 			<string>apple</string>
@@ -165,9 +225,7 @@
 		</dict>
 		<dict>
 			<key>docsets</key>
-			<array>
-				<string>~/Library/Application Support/Dash/DocSets/Apple_API_Reference/Apple_API_Reference.docset</string>
-			</array>
+			<array/>
 			<key>icon</key>
 			<string>Snippet</string>
 			<key>name</key>
