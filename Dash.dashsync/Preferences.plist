@@ -101,6 +101,46 @@
 	<array>
 		<dict>
 			<key>path</key>
+			<string>dash-apple-api://load?request_key=hccNYxw-d7#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>willMoveToSuperview:</string>
+			<key>typeImagePath</key>
+			<string>Method</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?topic_id=1613147&amp;language=occ</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>Core Graphics</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?topic_id=1621109&amp;language=occ&amp;usr=c%3Aobjc%28cs%29UIResponder</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>UIResponder</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcvmcqjYpS#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>touchesEnded:withEvent:</string>
+			<key>typeImagePath</key>
+			<string>Method</string>
+		</dict>
+		<dict>
+			<key>path</key>
 			<string>dash-apple-api://load?request_key=tc1657527</string>
 			<key>platformImagePath</key>
 			<string>apple</string>
