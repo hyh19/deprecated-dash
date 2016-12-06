@@ -101,6 +101,16 @@
 	<array>
 		<dict>
 			<key>path</key>
+			<string>https://developer.apple.com/library/prerelease/content/documentation/Cocoa/Conceptual/Multithreading/Introduction/Introduction.html#//apple_ref/doc/uid/10000057i</string>
+			<key>platformImagePath</key>
+			<string></string>
+			<key>title</key>
+			<string>Introduction</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
 			<string>dash-apple-api://load?request_key=hccNYxw-d7#</string>
 			<key>platformImagePath</key>
 			<string>apple</string>
