@@ -243,7 +243,10 @@
 	<key>docsets</key>
 	<dict>
 		<key>keywords</key>
-		<dict/>
+		<dict>
+			<key>~/Library/Application Support/Dash/DocSets/Apple_API_Reference/Apple_API_Reference.docset</key>
+			<string>ios:</string>
+		</dict>
 	</dict>
 	<key>feeds</key>
 	<dict>
@@ -312,18 +315,6 @@
 					<key>isTabTrigger</key>
 					<true/>
 				</dict>
-				<dict>
-					<key>appPath</key>
-					<string>/Applications/Xcode.app</string>
-					<key>bundle</key>
-					<string>com.apple.dt.Xcode</string>
-					<key>description</key>
-					<string>Xcode becomes active</string>
-					<key>image</key>
-					<string>generalAppIcon</string>
-					<key>isAppTrigger</key>
-					<true/>
-				</dict>
 			</array>
 		</dict>
 	</array>
@@ -348,9 +339,13 @@
 	<true/>
 	<key>shouldSyncView</key>
 	<true/>
+	<key>showDisabledDocsets</key>
+	<true/>
 	<key>showInDock</key>
 	<true/>
 	<key>showSearchFallbacks</key>
+	<true/>
+	<key>sortDocsetsAlphabetically</key>
 	<true/>
 	<key>versionedDHCheatRepo</key>
 	<dict>
