@@ -245,7 +245,7 @@
 		<key>keywords</key>
 		<dict>
 			<key>~/Library/Application Support/Dash/DocSets/Apple_API_Reference/Apple_API_Reference.docset</key>
-			<string>ios:</string>
+			<string>apple:</string>
 		</dict>
 	</dict>
 	<key>feeds</key>
