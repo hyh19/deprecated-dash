@@ -257,6 +257,16 @@
 				<key>date</key>
 				<date>2016-11-18T08:02:22Z</date>
 			</dict>
+			<key>http://kapeli.com/feeds/C++.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-12-10T08:36:32Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/C.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2016-12-10T08:38:39Z</date>
+			</dict>
 		</dict>
 		<key>uninstalled</key>
 		<dict/>
